@@ -1,0 +1,3 @@
+name,email,subject,message
+admin,sarthsharma10@gmail.com,test1,hello sir!
+Sarth,sarthsharma10@gmail.com,test2,Hello again,welcome.
